@@ -1,3 +1,3 @@
 git add .
-git commit -m "Update NavPages"
+git commit -m "Update pw"
 git push
