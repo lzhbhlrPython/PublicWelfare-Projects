@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 公益在行动
+subtitle: Public Welfare in Doing
 description:
 keywords:
-author: John Doe
-language:
+author: 瞎哔哔的Py
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: melody
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
