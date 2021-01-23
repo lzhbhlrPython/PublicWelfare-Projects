@@ -14,6 +14,6 @@
 
 目前急需美工来美化本网站的LOGO(目前是本人的头像嘤嘤嘤).需要一些能够熟练使用GitHub的成员帮助我们合并Pull Request和Issues.(本人学生，平常比较忙.)
 
-[本人邮箱](mailto:Liubaolin20070125@outlook.com),赞赏码请见我的个人介绍 -> [Link](/About).QQ:1840198642,Wechat:18512291096..
+[本人邮箱](mailto:Liubaolin20070125@outlook.com),赞赏码请见我的个人介绍 -> [Link](/About).QQ:1840198642,Wechat:18512291096..[Github](https://github.com/lzhbhlrPython/PublicWelfare-Projects)
 
 ### EOP - End of project
