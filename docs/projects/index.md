@@ -11,11 +11,25 @@ PR包括了你对项目的简要介绍和托管于任意图床的微信/支付�
 :::details 点击查看
 Pull Request
 
-./projects/YourProjectName_YourName.md
+./docs/projects/index.md(见我的实例)
 
+./docs/projects/YourProjectName_YourName.md(内容同Issues)
+
+./docs/.vuepress/config.js(示例见下)
+
+```javascript
+//config.js
+sidebar: {
+    "/projects/": [
+        ["", "项目清单"],
+        //添加如下内容
+        ["YourProjectName_YourName.html", "YourProjectName_YourName"]
+    ]
+}
+```
 Issues
 
-## YourProjectName 申请收录如下
+## YourProjectName
 
 ### 项目介绍
 
@@ -30,3 +44,4 @@ Issues
 简要说明你需要的人,你的邮箱,你的Github开源地址,还有你的赞赏码等一系列你认为有用的资料.
 :::
 
+- 编码公益网站_Lzhbhlrpython [Link](PublicWelfare_lzhbhlrpython.md)

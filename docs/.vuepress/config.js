@@ -15,7 +15,13 @@ module.exports = {
         }, {
             text: "项目清单",
             link: "/projects/"
-        }]
+        }],
+        sidebar: {
+            "/projects/": [
+                ["", "项目清单"],
+                ["PublicWelfare_lzhbhlrpython.html", "编码公益网站_Lzhbhlrpython"]
+            ]
+        }
     },
     markdown: {
         toc: {
