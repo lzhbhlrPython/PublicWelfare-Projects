@@ -16,5 +16,10 @@ module.exports = {
             text: "项目清单",
             link: "/projects/"
         }]
+    },
+    markdown: {
+        toc: {
+            "includeLevel": [1, 2, 3, 4, 5, 6]
+        }
     }
 }
