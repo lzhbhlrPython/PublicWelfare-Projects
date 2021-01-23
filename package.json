@@ -1,0 +1,25 @@
+{
+    "name": "public-welfare.pyliubaolin.top",
+    "version": "1.0.0",
+    "description": "公益在行动",
+    "main": "index.js",
+    "repository": "https://github.com/lzhbhlrPython/PublicWeifare-Projects.git",
+    "author": "Baolin Liu <Liubaolin20070125@outlook.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@vuepress/plugin-active-header-links": "^1.8.0",
+        "@vuepress/plugin-back-to-top": "^1.8.0",
+        "vuepress": "^1.8.0",
+        "vuepress-theme-ting": "^2.0.2"
+    },
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "dependencies": {
+        "doctoc": "^2.0.0",
+        "markdown-it": "^12.0.4",
+        "react": "15.x.x",
+        "react-dom": "15.x.x"
+    }
+}
